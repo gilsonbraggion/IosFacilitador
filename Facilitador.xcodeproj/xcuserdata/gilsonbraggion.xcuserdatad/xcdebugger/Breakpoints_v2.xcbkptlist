@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Facilitador/CategoriaFornecedorController.swift"
+            timestampString = "523245029.809397"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "86"
+            endingLineNumber = "86"
+            landmarkName = "direcionarPerfilClick(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Facilitador.CategoriaFornecedorController.direcionarPerfilClick (__ObjC.UIBarButtonItem) -&gt; ()"
+                  moduleName = "Facilitador"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gilsonbraggion/Documents/WorkspaceIOS/Facilitador/Facilitador/CategoriaFornecedorController.swift"
+                  timestampString = "523154738.695323"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "87"
+                  endingLineNumber = "87"
+                  offsetFromSymbolStart = "214">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Facilitador.CategoriaFornecedorController.direcionarPerfilClick (__ObjC.UIBarButtonItem) -&gt; ()"
+                  moduleName = "Facilitador"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gilsonbraggion/Documents/WorkspaceIOS/Facilitador/Facilitador/CategoriaFornecedorController.swift"
+                  timestampString = "523154738.697861"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "87"
+                  endingLineNumber = "87"
+                  offsetFromSymbolStart = "620">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
